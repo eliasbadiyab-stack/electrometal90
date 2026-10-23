@@ -1,0 +1,6 @@
+{
+  "name": "Electro Metal",
+  "description": "فروشگاه تخصصی مهندسی الکترونیک، مدارهای چاپی PCB، شبیه‌سازی و محصولات دیجیتال و فیزیکی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
